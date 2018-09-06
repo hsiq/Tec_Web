@@ -1,0 +1,176 @@
+#cor{
+    background-color:#85d2f6;
+    color: rgb(8, 7, 7);
+  
+}
+
+#cor:focus{
+    background-color: #ffffff;
+}
+
+#titulo{
+    color:#ffffff;
+    font-size: 30px;
+    font-style:italic;
+    font-weight: bold;
+}
+
+#estiloFonte{
+color:#ffffff;
+font-size: 20px;
+font-style:italic;
+font-weight: bold;
+}
+
+#cursos{
+    color: #ffffff;
+    font-size: 15px;
+}
+
+#corpo{
+  position:relative;
+  left:28%;
+  top:20%;
+  width:320px;
+  height:270px;
+}
+#corpo #formulario{
+  position:absolute;
+  display:block;   
+
+}
+fieldset{
+  margin-top:40px;
+  background-color: rgba(15, 15, 15, 0.61);
+  width:650px;
+  height:695px;
+  color:#ffffff;
+  font-weight: bold;
+  border-radius: 50px;
+}
+
+#formulario label{
+  position:absolute;
+  left:90px;
+  margin-right:10px;
+}
+
+#formulario input.nome{
+  position:absolute;
+  left:330px;
+  margin-top:2px;
+  width:225px;
+  font-weight: bold;
+  font-style:bold;
+  font-family:Arial, Helvetica, sans-serif
+  border: 3px solid #ccc;
+  -webkit-border-radius: 8px; 
+}
+
+#formulario input.endereco{
+  position:absolute;
+  left:330px;
+  margin-top:2px;
+  width:225px;
+  font-weight: bold;
+  font-style:bold;
+  font-family:Arial, Helvetica, sans-serif
+  border: 3px solid #ccc;
+  -webkit-border-radius: 8px; 
+}
+
+#formulario input.cidade{
+  position:absolute;
+  left:330px;
+  margin-top:2px;
+  width:225px;
+  font-weight: bold;
+  font-style:bold;
+  font-family:Arial, Helvetica, sans-serif
+  border: 3px solid #ccc;
+  -webkit-border-radius: 8px; 
+}
+
+#formulario input.uf{
+  position:absolute;
+  left:330px;
+  margin-top:2px;
+  width:225px;
+  font-weight: bold;
+  font-style:bold;
+  font-family:Arial, Helvetica, sans-serif
+  border: 3px solid #ccc;
+  -webkit-border-radius: 8px; 
+}
+
+#formulario input.rg{
+  position:absolute;
+  left:330px;
+  margin-top:2px;
+  width:225px;
+  font-weight: bold;
+  font-style:bold;
+  font-family:Arial, Helvetica, sans-serif
+  border: 3px solid #ccc;
+  -webkit-border-radius: 8px; 
+}
+
+#formulario input.cpf{
+  position:absolute;
+  left:330px;
+  margin-top:2px;
+  width:225px;
+  font-weight: bold;
+  font-style:bold;
+  font-family:Arial, Helvetica, sans-serif
+  border: 3px solid #ccc;
+  -webkit-border-radius: 8px; 
+}
+
+#formulario input.email{
+  position:absolute;
+  left:330px;
+  margin-top:2px;
+  width:225px;
+  font-weight: bold;
+  font-style:bold;
+  font-family:Arial, Helvetica, sans-serif
+  border: 3px solid #ccc;
+  -webkit-border-radius: 8px; 
+}
+#formulario textarea.msg{
+  position:absolute;
+  margin-top:2px;
+  left:330px;
+  width:225px;
+  font-weight: bold;
+  font-style:bold;
+  font-family:Arial, Helvetica, sans-serif
+  border: 3px solid #ccc;
+  -webkit-border-radius: 8px; 
+}
+.login{
+    background-image: url('https://www.softmus.com.br/wp-content/uploads/2013/05/blockchain.jpg');
+    background-repeat: no-repeat;
+    background-size:100%;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    background-size: cover;
+    height: 110%;
+
+
+}
+
+.botao {
+  border: 2px solid rgba(248, 248, 248, 0.993);
+  background: none;
+  color: #ffffff;
+  border-radius: 5px;
+}
